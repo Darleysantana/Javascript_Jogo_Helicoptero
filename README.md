@@ -3,6 +3,7 @@
 ##### :heavy_check_mark: Design CSS3;
 ##### :heavy_check_mark: Função Start;
 ##### :heavy_check_mark: Desing Animação acrescentada;
+##### :heavy_check_mark: Função de movimento da tela de fundo;
 
 #  :joystick: Controles :joystick:
 ###### :red_circle: "W" Move Para Cima :arrow_up:
