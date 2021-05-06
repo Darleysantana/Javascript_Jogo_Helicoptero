@@ -5,6 +5,7 @@
 ##### :heavy_check_mark: Desing Animação acrescentada;
 ##### :heavy_check_mark: Função de movimento da tela de fundo;
 ##### :heavy_check_mark: Função de movimento do Helicóptero e limitação;
+##### :heavy_check_mark: Função de movimento do inimigo 1;
 
 #  :joystick: Controles :joystick:
 ###### :red_circle: "W" Move Para Cima :arrow_up:
