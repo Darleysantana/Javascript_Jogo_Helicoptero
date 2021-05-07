@@ -1,0 +1,53 @@
+[33mcommit ed883d4e8c14eab1a5315ffa3cf0bdf2328ddbc7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mamigo/movimentação[m[33m)[m
+Author: Darleysantana <darleyhyuga@gmail.com>
+Date:   Thu May 6 21:10:02 2021 -0300
+
+    Movimentação do inimigo2 e amigo
+
+[33mcommit 883926e732ece9c63d878c43d4be092be901410e[m[33m ([m[1;31mmovimento/movimentação[m[33m)[m
+Author: Darleysantana <darleyhyuga@gmail.com>
+Date:   Wed May 5 23:33:47 2021 -0300
+
+    adicionado movimento do inimigo
+
+[33mcommit 5621da4fe3a529b5d1bdcd387e0fb7b010058840[m
+Author: Darleysantana <darleyhyuga@gmail.com>
+Date:   Wed May 5 23:05:32 2021 -0300
+
+    Adicionado e limitado a movimentação
+
+[33mcommit afc6413b9ba6021fb3f6317427fc07dc66e20556[m[33m ([m[1;31mfundo/main[m[33m)[m
+Author: Darleysantana <darleyhyuga@gmail.com>
+Date:   Wed May 5 20:38:37 2021 -0300
+
+    Acrescentada função mover tela
+
+[33mcommit 3af1b208b7937fb40c37b911cd2c40b56a968a59[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Darleysantana <darleyhyuga@gmail.com>
+Date:   Wed May 5 17:19:47 2021 -0300
+
+    Corrigindo img do amigo
+
+[33mcommit 1e4fd8cb90ce479655dcb7b37d41d1453f0560d9[m
+Author: Darleysantana <darleyhyuga@gmail.com>
+Date:   Wed May 5 16:48:00 2021 -0300
+
+    Adicionado a animação
+
+[33mcommit 6668816bf4d9f1f5f392c7ad53ab58f4580fcc01[m
+Author: Darleysantana <darleyhyuga@gmail.com>
+Date:   Wed May 5 13:38:48 2021 -0300
+
+    Criado Main.js e design
+
+[33mcommit 22e910c533c508d66dd29a264c5d811e87191f99[m
+Author: Darleysantana <darleyhyuga@gmail.com>
+Date:   Wed May 5 10:44:32 2021 -0300
+
+    Cofigurando README.md
+
+[33mcommit 4360ae958636968b17e8f8c419f9f8164294f5d6[m
+Author: Darleysantana <darleyhyuga@gmail.com>
+Date:   Wed May 5 10:19:40 2021 -0300
+
+    Criado a estrutura HTML5 e Adiciando instruções
