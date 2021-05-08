@@ -176,7 +176,7 @@ function start(){
         }	
 
         if (colisao3.length>0) {
-		
+            velocidade+=0.15;
             pontos=pontos+100;
             inimigo1X = parseInt($("#inimigo1").css("left"));
             inimigo1Y = parseInt($("#inimigo1").css("top"));
@@ -191,7 +191,7 @@ function start(){
         }
 
         if (colisao4.length>0) {
-		
+            velocidade+=0.15;
             inimigo2X = parseInt($("#inimigo2").css("left"));
             inimigo2Y = parseInt($("#inimigo2").css("top"));
             $("#inimigo2").remove();
