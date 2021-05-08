@@ -31,6 +31,17 @@ function start(){
      //recebe o parametro de movimento do jogador
     jogo.pressionou = [];
 
+    var somDisparo=document.getElementById("somDisparo");
+    var somExplosao=document.getElementById("somExplosao");
+    var musica=document.getElementById("musica");
+    var somGameover=document.getElementById("somGameover");
+    var somPerdido=document.getElementById("somPerdido");
+    var somResgate=document.getElementById("somResgate");
+
+    musica.addEventListener("ended", function(){ musica.currentTime = 0; musica.play(); }, false);
+    musica.play();
+
+
     $(document).keydown(function(e){
         jogo.pressionou[e.which] = true;
     });
@@ -118,6 +129,8 @@ function start(){
 
     function disparo(){
         if(podeAtirar == true){
+            somDisparo.play();
+
             podeAtirar == false;
 
             topo = parseInt($("#jogador").css("top"));
@@ -204,7 +217,9 @@ function start(){
         }
         
         if (colisao5.length>0) {
-		
+                      
+            
+            somResgate.play();
             pontos=pontos+50;
             salvos++;
             reposicionaAmigo();
