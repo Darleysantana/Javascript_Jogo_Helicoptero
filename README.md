@@ -9,6 +9,8 @@
 ##### :heavy_check_mark: Função de movimento do inimigo 2;
 ##### :heavy_check_mark: Função de movimento do amigo;
 ##### :x: Erro no JQuery não encontrada a função collision;
+##### :heavy_check_mark: Audio;
+
 
 #  :joystick: Controles :joystick:
 ###### :red_circle: "W" Move Para Cima :arrow_up:
